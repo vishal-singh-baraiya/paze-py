@@ -51,13 +51,6 @@ if __name__ == "__main__":
 
 - `pypaze/`: Contains the framework code.
 
-- `routes/`: Contains route definitions. Routes are automatically registered based on the file structure.
-
-- `templates/`: Store your Jinja2 HTML templates.
-
-- `static/`: Static files such as CSS and images.
-
-- `example/`: Example app for quick reference.
 
 ## Running the App
 
