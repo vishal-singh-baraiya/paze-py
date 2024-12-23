@@ -1,0 +1,3 @@
+include pypaze/*
+include README.md
+include LICENSE
